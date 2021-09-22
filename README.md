@@ -1,5 +1,5 @@
 # speech_emotion_classification
-In this notebook, I want to classify emotion in speech from audiofiles with Machine Learning.
+In this notebook, I want to classify emotion in speech from audiofiles with different Machine Learning techniques.
 
 For this I use the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS). 
 We only use the speech audio data, that consists of 1440 files. 
