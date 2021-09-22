@@ -9,3 +9,7 @@ Speech includes calm, happy, sad, angry, fearful, surprise, and disgust expressi
 and song contains calm, happy, sad, angry, and fearful emotions. 
 Each expression is produced at two levels of emotional intensity (normal, strong), 
 with an additional neutral expression.
+The data is freely available for download here:
+https://zenodo.org/record/1188976#.YUuSMC0es1I
+
+Additionally, I provide a small survey on human accuracy on the database for download.
